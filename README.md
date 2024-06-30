@@ -18,7 +18,7 @@ Welcome to the repository for **Assessment 02 - Server-side Web Programming**. T
    git clone https://github.com/praneeth724/Server_Side_Web_Programming_DP_Education_Assignment01.git
    ```
 
-2. **Navigate to the Answers**: Open the `index/` file find the answers to the assessment questions.
+2. **Navigate to the Answers**: Open the `server/` file and `database/`  find the answers to the assessment questions.
 
 3. **Review the PDF**: Go to the `pdf/` directory and open the attached PDF document to review the quiz answers for Section Two.
 
